@@ -1,0 +1,5 @@
+Write an algorithm to spell your name backwards
+
+Goal: (Example)
+--------------------
+    - rekraB nednaL
