@@ -1,0 +1,6 @@
+Create a list of movies with their ratings. Sort the movies from highest rating to lowest.
+
+Given:
+--------------------
+    - List of Movies
+    - Ratings
