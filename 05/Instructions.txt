@@ -1,0 +1,5 @@
+You have an unsorted list of inventory items (names and quantities). First, sort the items alphabetically, then write a function to find if a specific item exists.
+
+Given:
+--------------------
+    - Unsorted List of Inventory
