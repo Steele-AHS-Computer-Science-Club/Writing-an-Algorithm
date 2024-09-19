@@ -1,0 +1,5 @@
+List of student names. Write an algorithm that checks if a specific name is in the list 
+
+Given:
+--------------------
+    - Student Names
