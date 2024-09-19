@@ -1,0 +1,5 @@
+You have a sorted list of student test scores and need to find out if a certain score exists in the list (use Binary Search).
+
+Given:
+--------------------
+    - Student Test Scores
