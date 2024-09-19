@@ -1,0 +1,9 @@
+Print a Right-Angled Triangle using asterisks
+
+Goal:
+--------------------
+*
+**
+***
+****
+*****
