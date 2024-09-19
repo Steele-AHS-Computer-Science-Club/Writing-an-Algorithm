@@ -1,5 +1,5 @@
-You have a sorted list of student test scores and need to find out if a certain score exists in the list (use Binary Search).
+Create a list of students with their ages. Write an algorithm to sort them from youngest to oldest.
 
 Given:
 --------------------
-    - Student Test Scores
+    - List of Student Ages
