@@ -1,0 +1,6 @@
+Given a list of customer orders with timestamps, sort them chronologically.
+
+Given:
+--------------------
+    - Customer Orders
+    - Timestamps of each Order
